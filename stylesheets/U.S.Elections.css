@@ -1,0 +1,49 @@
+
+h1{
+background-color:#39e1cd;
+font-family:"Times New Roman" ;
+color:#063832;
+font-variant: small-caps;
+text-align:center;
+}
+
+p{
+	background-color:#bdede7;
+font-family:"Courier New" ;
+color:#054039
+font-size:100%;
+text-align: left !important;
+line-height: 150%;
+
+}
+
+h3{
+	background-color:#739b96;
+font-family:Times ;
+color:#063832;
+font-variant: small-caps;
+text-align:center;
+
+}
+
+ul{
+	background-color:#b4e7e0;
+font-family:"Courier New" ;
+color:#054039;
+text-align:left;
+
+}
+
+span{
+	background-color:#3a9f8f;
+font-family:"Courier New" ;
+color:#052c26;
+font-style: oblique;
+
+}
+
+a{
+	background-color:#bdede7;
+font-family:"Courier New" ;
+color:#054039
+}
