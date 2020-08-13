@@ -1,0 +1,16 @@
+
+/*external css file*/
+p{
+			color:blue;
+			background-color: yellow;
+		}
+
+h1{
+			color: red;
+			alignment-baseline: central;
+		}
+
+p{
+			color:white;
+			background-color: black;
+		}
